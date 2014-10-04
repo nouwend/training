@@ -12,6 +12,12 @@
 </head>
 <body>
 <h2>updated</h2>
+<p>4 Oct</p>
+<ul>
+	<li><a href="buttons/buttons.html">Making buttons</a></li>
+</ul>
+
+<h2>Original content</h2>
  <div class="container">
 <form role="form">
 <div class="form-group">
